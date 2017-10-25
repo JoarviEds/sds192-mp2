@@ -1,5 +1,5 @@
 ---
-title: "Mini-Project 2"
+title: "Mini-Project 2!"
 author: "Joarvi Edwards, Kira Hill, Elise Snoey"
 date: "October 31, 2017"
 output: html_document
@@ -16,4 +16,9 @@ load("candidates.rda")
 load("committees.rda")
 load("contributions.rda")
 ```
+<<<<<<< HEAD
 Hello, everyone!!!!!
+=======
+ 
+#This is a test
+>>>>>>> 4e8cf78e1714b5ea5d87cf523b55ebda9d151224
